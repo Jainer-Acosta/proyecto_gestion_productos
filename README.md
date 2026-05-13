@@ -27,13 +27,13 @@ y ahora sale asi
 
 Por eso creé la clase ProductRequestDTO que solo tiene los campos que el cliente debe enviar: name, description, price, stock y category. Luego en el controlador, convierto ese DTO a la entidad Product, y es la base de datos quien genera automáticamente el id y la createdAt.
 
-Creacion del producto 
+# Creacion del producto 
 
 <img width="3582" height="1665" alt="image" src="https://github.com/user-attachments/assets/97bf5ead-0be0-4ed8-abf2-7016ac8df224" />
 
 <img width="3152" height="1775" alt="image" src="https://github.com/user-attachments/assets/06f8c177-8747-4fac-a3f6-a317b17a66a9" />
 
-Listar producto
+# Listar producto
 
 <img width="3120" height="1082" alt="image" src="https://github.com/user-attachments/assets/2202dea8-0397-4619-8ae2-4d53a0d006a6" />
 
@@ -41,21 +41,21 @@ Listar producto
 
 Solo tengo dos, antes tenia mas pero reinicie el computador y se elimino toda la base datos 
 
-Eliminar producto
+# Eliminar producto
 
 <img width="2835" height="1735" alt="image" src="https://github.com/user-attachments/assets/c9306171-1eec-4a4c-8437-32150dbae7d6" />
 
-Actualizar producto, le agregue mas informacion en la descripcion
+# Actualizar producto, le agregue mas informacion en la descripcion
 
 <img width="2832" height="1460" alt="image" src="https://github.com/user-attachments/assets/18c92eb1-c4ab-4c00-b50e-131b78b5a210" />
 
 <img width="2797" height="1595" alt="image" src="https://github.com/user-attachments/assets/aea9b9f8-e55d-4c6f-8e8e-f3155461a153" />
 
-Obtener id
+# Obtener id
 
 <img width="2652" height="1770" alt="image" src="https://github.com/user-attachments/assets/9182b771-ef92-4509-a360-01ba4309980f" />
 
-H2 BD
+# H2 BD
 
 <img width="2462" height="1332" alt="image" src="https://github.com/user-attachments/assets/ab6b80fe-3f34-446a-a09e-a421dfa20dda" />
 
