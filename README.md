@@ -60,3 +60,6 @@ Solo tengo dos, antes tenia mas pero reinicie el computador y se elimino toda la
 <img width="2462" height="1332" alt="image" src="https://github.com/user-attachments/assets/ab6b80fe-3f34-446a-a09e-a421dfa20dda" />
 
 
+# Validación de cuando no se encuentra el producto
+
+<img width="2660" height="1685" alt="image" src="https://github.com/user-attachments/assets/482a2af3-e4e6-443f-be59-66080d48dba6" />
