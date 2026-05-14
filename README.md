@@ -33,7 +33,7 @@ Para hacer funcionar el programa solo se necesita clonar el repositorio y las de
 
 http://localhost:8080/h2-console/login.jsp
 
-## Credenciiales de la BD
+## Credenciales de la BD
 <img width="907" height="722" alt="image" src="https://github.com/user-attachments/assets/d747728e-7826-48a0-afb6-50687d2131a8" />
 
 # Url para entrar al Swagger
