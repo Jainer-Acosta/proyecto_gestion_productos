@@ -27,6 +27,20 @@ y ahora sale asi
 
 Por eso creé la clase ProductRequestDTO que solo tiene los campos que el cliente debe enviar: name, description, price, stock y category. Luego en el controlador, convierto ese DTO a la entidad Product, y es la base de datos quien genera automáticamente el id y la createdAt.
 
+Para hacer funcionar el programa solo se necesita clonar el repositorio y las dependencias ya se descargan automaticamente porque las dependencias las coloque para que se descarguen en el pom.xml
+
+# Url para entrar a la base de datos 
+
+http://localhost:8080/h2-console/login.jsp
+
+## Credenciiales de la BD
+<img width="907" height="722" alt="image" src="https://github.com/user-attachments/assets/d747728e-7826-48a0-afb6-50687d2131a8" />
+
+# Url para entrar al Swagger
+
+http://localhost:8080/swagger-ui/index.html
+
+
 # Creacion del producto 
 
 <img width="3582" height="1665" alt="image" src="https://github.com/user-attachments/assets/97bf5ead-0be0-4ed8-abf2-7016ac8df224" />
